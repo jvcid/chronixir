@@ -236,5 +236,6 @@ A leitura e escrita são feitas utilizando:
 ---
 
 # Autor
+João Victor Martins Cid
 
 Projeto desenvolvido para fins acadêmicos utilizando Elixir.
