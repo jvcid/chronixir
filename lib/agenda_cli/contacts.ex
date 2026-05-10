@@ -9,7 +9,6 @@ defmodule AgendaCli.Contacts do
       company: attrs["company"],
       phone: attrs["phone"],
       email: attrs["email"],
-      metadata: "RXNzYSDDqSBhIG1pbmhiYSBhZ2VuZGEgZW0gZWxpeGlyIDsp"
     }
 
     [contact | contacts] #define que contact venha antes de contacts [cabeca | cauda]
