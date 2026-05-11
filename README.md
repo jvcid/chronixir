@@ -1,4 +1,4 @@
-# Agenda CLI
+https://github.com/jvcid/chronixir# Agenda CLI
 
 Aplicação de terminal desenvolvida em Elixir para gerenciamento de contatos.
 
@@ -107,7 +107,7 @@ Responsável pela persistência dos dados:
 ## 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-repositorio.git
+git clone https://github.com/jvcid/chronixir
 ```
 
 ---
